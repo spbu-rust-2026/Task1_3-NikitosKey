@@ -10,4 +10,3 @@ fn main() {
         Err(_) => println!("failure"),
     }
 }
-
